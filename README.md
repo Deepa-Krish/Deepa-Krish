@@ -1,7 +1,7 @@
 ### Hello Everyone 👋
 I am a Test Automation Engineer 
 - 🔭 I’m currently working on front-end and back-end Automation using Selenium WebDriver and RestAssured
-- 🌱 I’m currently learning advanced concepts of Data Structure and Aldorithms
+- 🌱 I’m currently learning advanced concepts of Data Structure and Algorithms
 - 📫 How to reach me: My [LinkedIn](https://www.linkedin.com/in/deepa-krishnan-sdet/) profile
 
 <!--
